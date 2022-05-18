@@ -7,6 +7,7 @@
         private $pass;
         private $url;
         private $charSet;
+        //jjdfksdhj
 
         //construct
         public function __construct(){
